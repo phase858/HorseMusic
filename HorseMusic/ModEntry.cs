@@ -18,7 +18,7 @@ namespace HorseMusic
 
         public override void Entry(IModHelper helper)
         {
-            GameEvents.UpdateTick += this.GameEvents_UpdateTick;
+            helper.Events.GameLoop.UpdateTicked += this.GameEvents_UpdateTick;
             path = helper.DirectoryPath;
         }
 

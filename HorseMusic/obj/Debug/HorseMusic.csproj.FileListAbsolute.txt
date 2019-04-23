@@ -1,8 +1,8 @@
 C:\Users\Joshua\source\repos\HorseMusic\HorseMusic\bin\Debug\manifest.json
 C:\Users\Joshua\source\repos\HorseMusic\HorseMusic\bin\Debug\HorseMusic.dll
 C:\Users\Joshua\source\repos\HorseMusic\HorseMusic\bin\Debug\HorseMusic.pdb
-C:\Users\Joshua\source\repos\HorseMusic\HorseMusic\obj\Debug\HorseMusic.csprojResolveAssemblyReference.cache
 C:\Users\Joshua\source\repos\HorseMusic\HorseMusic\obj\Debug\HorseMusic.csproj.CoreCompileInputs.cache
 C:\Users\Joshua\source\repos\HorseMusic\HorseMusic\obj\Debug\HorseMusic.dll
 C:\Users\Joshua\source\repos\HorseMusic\HorseMusic\obj\Debug\HorseMusic.pdb
 C:\Users\Joshua\source\repos\HorseMusic\HorseMusic\bin\Debug\songs\WAVs go here.txt
+C:\Users\Joshua\source\repos\HorseMusic\HorseMusic\obj\Debug\HorseMusic.csprojAssemblyReference.cache
